@@ -10,8 +10,3 @@ Files:
   P1_Losers_and_Gainers1_bkup - backup file
 
 
-Project 2 (P2):
-Project Details:
-   This project was taken from a mock Google coding interview that I found on YouTube (see link below). The interview was conducted by a Google Software Engineer who has interviewed dozens of candidates. He states that this is exactly the type of coding interview and challenge that Google and other big tech company will provide in an interview.
-
-   An explanation of the programming challenge can be found here: https://youtu.be/qz9tKlF431k
