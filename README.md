@@ -24,7 +24,7 @@ Project 2 (P2): (Microsoft Power BI)
        - Total Follow-up Reports Mailed
        - Number of Mailings Delivered
        
-    P2_PowerBI_Note_Broker2
+   P2_PowerBI_Note_Broker2
        - % by Property State
        - Loans > 500K by Property Type
        - % Owner Occupied by Mailing
