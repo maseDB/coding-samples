@@ -1,0 +1,16 @@
+Project 2 (P2): (Microsoft Power BI)
+  Project Details: Microsoft BI Dashboard project to display, share, aggregate and munipulate data from a seller-financed note-broker business.
+  
+  Files:
+     P2_PowerBI_Note_Broker1 
+       - Count State by Mailing
+       - % State by Mailing
+       - Number of Trust
+       - Total Return to Senders
+       - Total Mailed
+       - Total Follow-up Reports Mailed
+       - Number of Mailings Delivered
+     P2_PowerBI_Note_Broker2
+       - % by Property State
+       - Loans > 500K by Property Type
+       - % Owner Occupied by Mailing
